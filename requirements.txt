@@ -1,0 +1,4 @@
+Abaqus=2022
+python=2.7.2
+numpy=1.16.2
+csv=2.3
